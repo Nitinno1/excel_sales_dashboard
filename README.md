@@ -11,14 +11,14 @@ To enhance usability, interactive slicers and timelines have been added, allowin
 
 This project highlights strong proficiency in:
 
-Excel data cleaning and structuring
+* Excel data cleaning and structuring
 
-PivotTables and PivotCharts
+* PivotTables and PivotCharts
 
-Dashboard design and layout
+* Dashboard design and layout
 
-Business-focused data storytelling
+* Business-focused data storytelling
 
-KPI creation and automation
+* KPI creation and automation
 
 Overall, this Excel Sales Dashboard demonstrates the ability to transform raw data into actionable business insights and serves as a strong portfolio project for showcasing analytical and reporting skills using Excel.
